@@ -17,7 +17,7 @@
     <description>App版本管理</description>
 
     <properties>
-        <sonar.host.url></sonar.host.url>
+        <sonar.host.url/>
         <sonar.skip>true</sonar.skip>
         <asciidoctorj.version>1.5.6</asciidoctorj.version>
         <asciidoctorj.diagram.version>1.5.4.1</asciidoctorj.diagram.version>
@@ -28,7 +28,7 @@
         <java.version>1.8</java.version>
         <mybatisplus-spring-boot-starter.version>1.0.2</mybatisplus-spring-boot-starter.version>
         <maven.deploy.skip>true</maven.deploy.skip>
-        <jsonwebtoken.jjwt.version>0.10.5</jsonwebtoken.jjwt.version>
+        <jsonwebtoken.jjwt.version>0.12.0</jsonwebtoken.jjwt.version>
         <docker.image.prefix>app</docker.image.prefix>
         <maven.install.skip>false</maven.install.skip>
         <maven.deploy.skip>false</maven.deploy.skip>
