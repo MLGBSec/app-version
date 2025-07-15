@@ -17,7 +17,7 @@
     <description>App版本管理</description>
 
     <properties>
-        <sonar.host.url></sonar.host.url>
+        <sonar.host.url/>
         <sonar.skip>true</sonar.skip>
         <asciidoctorj.version>1.5.6</asciidoctorj.version>
         <asciidoctorj.diagram.version>1.5.4.1</asciidoctorj.diagram.version>
@@ -98,7 +98,7 @@
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-lang3</artifactId>
-                <version>3.4</version>
+                <version>3.18.0</version>
             </dependency>
             <dependency>
                 <groupId>com.alibaba</groupId>
